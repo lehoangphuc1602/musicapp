@@ -1,0 +1,5 @@
+.suggession--banner {
+    background: linear-gradient(217deg, rgba(38, 180, 140, 0.774), rgba(0, 255, 0, 0) 50.71%),
+        linear-gradient(127deg, rgba(38, 107, 181, 0.895), rgba(255, 0, 0, 0) 50.71%),
+        linear-gradient(361deg, rgba(0, 0, 0, 0.874), rgba(0, 0, 255, 0.1) 100%);
+}
